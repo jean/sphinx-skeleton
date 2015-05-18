@@ -8,7 +8,7 @@ This package contains the skeleton Sphinx extension.
 .. add description here ..
 '''
 
-requires = ['Sphinx>=0.6']
+requires = ['Sphinx>=0.6', 'monkey']
 
 setup(
     name='sphinxcontrib-skeleton',
